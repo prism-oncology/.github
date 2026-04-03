@@ -1,3 +1,3 @@
-## Welcome to the PRISM institute organization!
+## Welcome to the PRISM institute!
 
-TODO
+🚧 This organization is under construction - more details coming soon
