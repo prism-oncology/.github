@@ -1,5 +1,5 @@
 
-> ## 👋 Welcome to the PRISM Institute!
+## 👋 Welcome to the PRISM Institute!
 
 The *PRISM Institute* is a French interdisciplinary institute for **precision oncology**, established as a modern consortium at the **interface of clinical medicine, mathematical modeling, and computational science**.
 
